@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.mt {
+  margin-top: 1rem;
+}
+.mtb {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.mth {
+  margin-top: 1rem;
+}
+p {
+  font-weight: lighter;
+}
