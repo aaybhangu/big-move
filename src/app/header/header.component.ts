@@ -9,7 +9,6 @@ export class HeaderComponent {
   navbarOpen = false;
 
   toggleNavbar() {
-    this.navbarOpen = !this.navbarOpen;
-    console.log(this.navbarOpen);
+    this.navbarOpen = !this.navbarOpen; 
   }
 }
